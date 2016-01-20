@@ -11,4 +11,5 @@
 - [3주차 강의노트 (2016.01.23): 파일 입출력, 클래스, 외부 패키지 사용](http://nbviewer.jupyter.org/github/LyuGgang/python-data-analytics-lecture/blob/master/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/3_fileIO_class_import_pip.ipynb)
 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/LyuGGang/python-data-analytics-lecture" property="cc:attributionName" rel="cc:attributionURL">류원경, 정헌재</a>에 의해 작성된 <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">비전공자를 위한 Python과 데이터 분석</span>은(는) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">크리에이티브 커먼즈 저작자표시-비영리-변경금지 4.0 국제 라이선스</a>에 따라 이용할 수 있습니다.
+---
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">비전공자를 위한 Python과 데이터 분석</span>은(는) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">크리에이티브 커먼즈 저작자표시-비영리-변경금지 4.0 국제 라이선스</a>에 따라 이용할 수 있습니다.
