@@ -10,6 +10,10 @@
 
 - [3주차 강의노트 (2016.01.23): 파일 입출력, 클래스, 외부 패키지 사용](http://nbviewer.jupyter.org/github/LyuGgang/python-data-analytics-lecture/blob/master/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/3_fileIO_class_import_pip.ipynb)
 
+- [4주차 강의노트 - 모듈, 파이썬 외부 패키지(pip) 사용, 예외처리, 정규표현식](http://nbviewer.jupyter.org/github/LyuGgang/python-data-analytics-lecture/blob/master/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/4_module_pip.ipynb) 
+
+- [5주차 강의노트 - 크롤링, Pandas](http://nbviewer.jupyter.org/github/LyuGgang/python-data-analytics-lecture/blob/master/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/5_crawling.ipynb)
+
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">비전공자를 위한 Python 데이터 분석</span>은(는) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">크리에이티브 커먼즈 저작자표시-비영리-변경금지 4.0 국제 라이선스</a>에 따라 이용할 수 있습니다.
